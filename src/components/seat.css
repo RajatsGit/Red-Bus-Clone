@@ -1,0 +1,8 @@
+.seat{
+    background-color: gray;
+    border: 1px solid black;
+    width: 45px  !important;
+    height: auto;
+    margin-left: 15px;
+    margin-right: 15px;
+}
